@@ -1,5 +1,5 @@
 from django.urls import path 
-from .views import HomePageVIew
+from .views import HomePageView
 app_name = 'feed'
 
 urlpatterns = [
